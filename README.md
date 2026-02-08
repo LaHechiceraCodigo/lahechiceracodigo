@@ -3,7 +3,7 @@ I am **the Code Sorceress** ✨
 Here you will find my **projects**, **practices**, and experiments born from videos, courses, and streams.  
 This is a space to invoke knowledge and transform ideas into digital magic.
 
----<img width="500" height="500" alt="perfil jpg" src="https://github.com/user-attachments/assets/d308de3c-c418-4c76-9da5-a2e37a61a57a" />
+---------------------------<img width="500" height="500" alt="perfil jpg" src="https://github.com/user-attachments/assets/d308de3c-c418-4c76-9da5-a2e37a61a57a" />
 
 
 ## 🔮 What will you find here?
