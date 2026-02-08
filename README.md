@@ -1,4 +1,3 @@
-<img width="2560" height="1440" alt="Banner para YouTube Tecnología Moderno Azul (3)" src="https://github.com/user-attachments/assets/8f9e9d51-b15c-4813-825b-0653b4a828fb" />
 # 🌙 Welcome to the Coven 🧙‍♀️
 I am **the Code Sorceress** ✨  
 Here you will find my **projects**, **practices**, and experiments born from videos, courses, and streams.  
