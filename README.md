@@ -35,6 +35,17 @@ Aquí convierto ideas en magia digital: **proyectos de IA**, ejercicios resuelto
 - 🧩 Experimentos mágicos y laboratorios en vivo
 
 ---
+---
+### 🏅 Certificaciones
+
+<!-- Aquí los badges de arriba -->
+
+**Más certificaciones en mi perfil de Credly 1 → [[https://www.credly.com/users/isela-lopez-garcia
+### 🏅 Certificaciones
+<!-- Aquí los badges de arriba -->
+
+**Más certificaciones en mi perfil de Credly / LinkedIn** → [[https://www.credly.com/users/isela-lopez.964e825d
+---
 
 ### 🕯️ Conéctate conmigo
 
